@@ -31,5 +31,8 @@ public class MakeValidBracket {
         }
         System.out.println("changesgi");
         //jwdhwjhdjh
+
+
         return validString.toString().replace("*","");
+
     }
