@@ -29,7 +29,7 @@ public class MakeValidBracket {
                 validString.setCharAt(stack.pop(), '*');
             }
         }
+        System.out.println("changesgi");
         //jwdhwjhdjh
         return validString.toString().replace("*","");
     }
-}
